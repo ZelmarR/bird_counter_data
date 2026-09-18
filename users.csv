@@ -1,0 +1,2 @@
+id,email,name,department,password_hash,created_at
+7fe7cf6b-d589-4ca9-bffe-0085aac0a81d,test@gmail.com,test,LCS,$2b$12$bsB3JtEZJLH770kQ0KhhF.H7kZ7AM90jd/VXqdGRUQtvO438BRgmW,2026-09-18T03:25:54.202083+00:00
