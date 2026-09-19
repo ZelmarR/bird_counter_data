@@ -1,0 +1,2 @@
+video_name,location,upload_date,recorded_at,unique_flying_birds,max_concurrent_birds,duration_seconds,processing_time,total_tracks,frames_processed,first_detection_second,peak_concurrent_second,birds_per_minute,track_noise_ratio,avg_motion_score
+C_7152025_1 (online-video-cutter.com).mp4,A,2026-09-19 01:32,,8,6,16.3,26.8,15,474,4.7,10.5,[8],0.533,4.650000095367432
