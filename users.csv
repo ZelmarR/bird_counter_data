@@ -2,3 +2,4 @@ id,email,name,department,password_hash,created_at
 7fe7cf6b-d589-4ca9-bffe-0085aac0a81d,test@gmail.com,test,LCS,$2b$12$bsB3JtEZJLH770kQ0KhhF.H7kZ7AM90jd/VXqdGRUQtvO438BRgmW,2026-09-18T03:25:54.202083+00:00
 cfc3cedb-a70d-4b9b-89d1-4c59fb3df96e,test123@gmail.com,test,test,$2b$12$QvQacEDBd2byDJn.LM.EreQtqc5NhfYknFSSoTk.rVDPfmaztRCGG,2026-09-18T19:14:09.586977+00:00
 24923d1a-85a0-4f0a-bf91-f9b92c88f187,picasso1@msu.edu,Catalina Picasso,LCS,$2b$12$W40DE0gwYbzymT8S9MyZyefyPJhFuyIcc3czBRmCYKIrriaMgodwa,2026-09-19T19:48:08.441356+00:00
+87bd3339-5fe2-4d18-b871-663994c3d102,vaish13281@gmail.com,Vaishnavi Sundaraganapathi,LCS,$2b$12$4wshyypFgSrOM4GxO0MeZOY6dlkungIVWemwxGTpGWMpkZ/Xk8SP6,2026-09-22T17:04:42.899015+00:00
