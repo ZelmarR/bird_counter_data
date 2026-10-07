@@ -1,0 +1,2 @@
+video_name,location,upload_date,recorded_at,unique_flying_birds,max_concurrent_birds,duration_seconds,processing_time,total_tracks,frames_processed,first_detection_second,peak_concurrent_second,birds_per_minute,track_noise_ratio,avg_motion_score
+trimmed (online-video-cutter.com).mp4,B,2026-10-07 10:24,,1,1,16.2,29.7,2,486,5.1,5.1,[1],0.5,5.800000190734863
